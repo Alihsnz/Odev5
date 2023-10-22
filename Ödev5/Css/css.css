@@ -1,0 +1,30 @@
+/*<p style="text-align: center">Murat Öner</p>*/
+
+ol {
+    color: rebeccapurple;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+
+.text-red{
+    color: red;
+}
+.text-blue{
+color: mediumslateblue;
+}
+
+.text-orange{
+    color: wheat;
+}
+
